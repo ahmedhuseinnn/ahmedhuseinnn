@@ -2,8 +2,6 @@
 
 ### Data Analyst | Power BI • SQL • Python | Data Visualization
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhuseinnn&label=Profile views&color=0e75b6&style=flat" alt="ahmedhuseinnn" /> </p>
-
 - 🔭 I'm currently working on **Building interactive dashboards and analyzing real-world datasets using Power BI and SQL**
 
 - 🌱 I'm currently learning **Advanced Data Analysis, Data Visualization, and improving my skills in Python & SQL**
