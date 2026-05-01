@@ -1,4 +1,4 @@
-# Hi 👋, I'm ahmedhuseinnn
+# Hi 👋, I'm Ahmed Hussein
 
 ### Data Analyst | Power BI • SQL • Python | Data Visualization
 
